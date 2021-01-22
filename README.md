@@ -7,4 +7,4 @@
 
 ***
 
-* 私は日本語を話せません*
+### [私は日本語を話せません](https://en.wiktionary.org/wiki/私は日本語は話せません#Japanese)
